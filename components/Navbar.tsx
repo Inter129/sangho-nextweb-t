@@ -23,7 +23,7 @@ export default function CustomNavbar() {
                     <Text style={{
                         paddingLeft: "5px",
                     }} b color="inherit" hideIn="xs">
-                        Inter's Web!
+                        Inter&apos;s Web!
                     </Text>
                 </Navbar.Brand>
                 <Navbar.Content>
